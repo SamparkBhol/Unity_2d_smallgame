@@ -7,14 +7,6 @@ This project is a 2D platformer game built using Unity. It includes character mo
 - Unity 2021.3 or later
 - Basic understanding of C# and Unity
 
-## Project Structure
-- **Assets**
-  - **Scenes**: Contains all game scenes
-  - **Scripts**: Contains all C# scripts
-  - **Prefabs**: Contains reusable game objects
-  - **Sprites**: Contains all sprite assets
-  - **UI**: Contains UI elements
-
 ## Setup
 1. Open Unity and create a new 2D project.
 2. Import the contents of this project into the new Unity project.
